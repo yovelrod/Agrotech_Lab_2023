@@ -2,9 +2,9 @@
 The purpose of my project was to build a meteorological station to measure climate data such as wind speed, temperature, and humidity in my residential area. To achieve this goal, I utilized various sensors, including a wind sensor for measuring wind speed and direction, a temperature sensor, a humidity sensor, and a barometric pressure sensor. Additionally, to ensure the station's placement in a representative location with minimal environmental disturbances, I had to position it far away from a power source. Therefore, I incorporated a battery that could be charged using a solar panel.
 
 # Hardware and assembly:
-![7c742051-36e1-453e-a3e2-02cff936ee7f](https://github.com/yovelrod/Agrotech_Lab_2023/assets/118877588/83ec2dd8-f0cc-48bb-bac8-e0c2dbe8a08b)
+![7c742051-36e1-453e-a3e2-02cff936ee7f](https://github.com/yovelrod/Agrotech_Lab_2023/assets/118877588/83ec2dd8-f0cc-48bb-bac8-e0c2dbe8a08b)![WhatsApp Image 2023-07-03 at 19 51 25](https://github.com/yovelrod/Agrotech_Lab_2023/assets/118877588/79a9b3dc-e08c-47b6-8bd0-a70d41c3083f)
 
-![WhatsApp Image 2023-07-03 at 19 51 27](https://github.com/yovelrod/Agrotech_Lab_2023/assets/118877588/999d50e0-556c-48cc-9044-1e2b07673b07)
+
 
 
 <img width="797" alt="image" src="https://github.com/yovelrod/Agrotech_Lab_2023/assets/118877588/ce5d22b4-bbcf-4bf4-83ca-90207b1f9ad6">
