@@ -7,7 +7,7 @@ The purpose of my project was to build a meteorological station to measure clima
 
 
 
-<img width="797" alt="image" src="https://github.com/yovelrod/Agrotech_Lab_2023/assets/118877588/ce5d22b4-bbcf-4bf4-83ca-90207b1f9ad6">
+
 
 
 ## Components and Sensors
@@ -43,4 +43,16 @@ The purpose of my project was to build a meteorological station to measure clima
 |    | [Wind Direction Sensor](https://www.aliexpress.com/item/1005004770322638.html?spm=a2g0o.order_list.order_list_main.65.32271802WzfUcm) |                          | 1        |
 |    | [12V to 3.3V Step-Down Converter](https://www.aliexpress.com/item/32949929824.html?spm=a2g0o.order_list.order_list_main.204.32271802WzfUcm&gatewayAdapt=glo2isr) |            | 1        |
 |    | [12V to 5V Step-Down Converter](https://www.aliexpress.com/item/32949929824.html?spm=a2g0o.order_list.order_list_main.204.32271802WzfUcm&gatewayAdapt=glo2isr) |                | 1        |
+
+## Installation and Setup
+
+<img width="797" alt="image" src="https://github.com/yovelrod/Agrotech_Lab_2023/assets/118877588/ce5d22b4-bbcf-4bf4-83ca-90207b1f9ad6">
+
+1. Connect the components according to the following connections:
+
+   - Connect the 12V power supply to the wind sensors, ensuring proper polarity.
+   - Connect the wind speed and wind direction sensors to the ADS1115 ADC module.
+   - Connect the 3.3V output of the 12V to 3.3V step-down converter to the ESP32, SHT31, BME280, and one side of the logic level converter.
+   - Connect the 5V output of the 12V to 5V step-down converter to the other side of the logic level converter and the ADS1115 ADC module.
+   - Connect the necessary communication lines (I2C, SPI, etc.) between the ESP32, BME280, and SHT31 sensors.
 
