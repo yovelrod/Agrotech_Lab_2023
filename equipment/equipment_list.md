@@ -18,7 +18,7 @@
 
 - 12V to 5V Step-Down Converter: This converter steps down the 12V input voltage to 5V, supplying power to the other side of the logic level converter and the ADS1115 ADC module.
 
-## Bill of Materials (BOM)
+## Bill of Materials:
 
 | ID | Part name                          | Part number | Quantity |
 |----|------------------------------------|-------------|----------|
@@ -33,6 +33,5 @@
 |    | 12V to 5V Step-Down Converter       |             | 1        |
 |    | Other necessary electronic parts   |             | -        |
 
-Note: The above quantities are for reference and may vary depending on your specific requirements and design.
 
-## Installation and Setup
+
