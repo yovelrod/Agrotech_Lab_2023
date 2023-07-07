@@ -4,7 +4,10 @@ The purpose of my project was to build a meteorological station to measure clima
 # Hardware and assembly:
 ![7c742051-36e1-453e-a3e2-02cff936ee7f](https://github.com/yovelrod/Agrotech_Lab_2023/assets/118877588/83ec2dd8-f0cc-48bb-bac8-e0c2dbe8a08b)
 
-![5e9a9f82-2be9-4b5a-9642-f17907fb37bb](https://github.com/yovelrod/Agrotech_Lab_2023/assets/118877588/b25fef65-9884-4440-bc46-24c89432933f)
+![WhatsApp Image 2023-07-03 at 19 51 27](https://github.com/yovelrod/Agrotech_Lab_2023/assets/118877588/999d50e0-556c-48cc-9044-1e2b07673b07)
+
+
+<img width="797" alt="image" src="https://github.com/yovelrod/Agrotech_Lab_2023/assets/118877588/ce5d22b4-bbcf-4bf4-83ca-90207b1f9ad6">
 
 
 ## Components and Sensors
