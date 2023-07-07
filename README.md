@@ -56,3 +56,20 @@ The purpose of my project was to build a meteorological station to measure clima
    - Connect the 5V output of the 12V to 5V step-down converter to the other side of the logic level converter and the ADS1115 ADC module.
    - Connect the necessary communication lines (I2C, SPI, etc.) between the ESP32, BME280, and SHT31 sensors.
 
+2. Install the required libraries for each sensor and component. Make sure to use the latest versions of the libraries to ensure compatibility.
+
+3. Sign up for an ThingSpeak account and set up a new project.
+
+4. Obtain the necessary API key and ID from ThingSpeak for authentication and data upload.
+
+5. Download the ESP32 Mini Weather Station project code from the repository.
+
+6. Open the project code in the Arduino IDE or your preferred development environment.
+
+7. Configure the project code by modifying the necessary parameters such as Wi-Fi credentials, sensor addresses, sampling intervals, calibration values, and ThingSpeak API and ID.
+
+8. Upload the code to the ESP32 board.
+
+9. Monitor the serial output to ensure the weather data is being collected accurately.
+
+10. Check your ThingSpeak page to view and analyze the weather data uploaded by the weather station.
