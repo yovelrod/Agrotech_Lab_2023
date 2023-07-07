@@ -20,18 +20,18 @@
 
 ## Bill of Materials:
 
-| ID | Part name                          | Part number | Quantity |
-|----|------------------------------------|-------------|----------|
-|    | ESP32 Board                        |             | 1        |
-|    | ADS1115 ADC Module                 |             | 1        |
-|    | 3.3V to 5V Logic Level Converter    |             | 1        |
-|    | BME280 Sensor                      |             | 1        |
-|    | SHT31 Sensor                       |             | 1        |
-|    | Wind Speed Sensor                  |             | 1        |
-|    | Wind Direction Sensor              |             | 1        |
-|    | 12V to 3.3V Step-Down Converter     |             | 1        |
-|    | 12V to 5V Step-Down Converter       |             | 1        |
-|    | Other necessary electronic parts   |             | -        |
+| ID | Part name                          | Part number                        | Quantity |
+|----|------------------------------------|------------------------------------|----------|
+|    | [ESP32 Board](https://www.aliexpress.com/item/1005003145192016.html?spm=a2g0o.order_list.order_list_main.116.32271802WzfUcm)       |                                    | 1        |
+|    | [ADS1115 ADC Module](https://www.aliexpress.com/item/32817162654.html?spm=a2g0o.order_list.order_list_main.168.32271802WzfUcm)|                                  | 1        |
+|    | [3.3V to 5V Logic Level Converter](https://www.aliexpress.com/item/4000552920569.html?spm=a2g0o.order_list.order_list_main.245.32271802WzfUcm) |             | 1        |
+|    | [BME280 Sensor](https://www.aliexpress.com/item/32862445164.html?spm=a2g0o.order_list.order_list_main.141.32271802WzfUcm)     |                                    | 1        |
+|    | [SHT31 Sensor](https://www.aliexpress.com/item/1005004088598291.html?spm=a2g0o.order_list.order_list_main.240.32271802WzfUcm)       |                                    | 1        |
+|    | [Wind Speed Sensor](https://www.aliexpress.com/item/1005004770322638.html?spm=a2g0o.order_list.order_list_main.65.32271802WzfUcm) |                                | 1        |
+|    | [Wind Direction Sensor](https://www.aliexpress.com/item/1005004770322638.html?spm=a2g0o.order_list.order_list_main.65.32271802WzfUcm) |                          | 1        |
+|    | [12V to 3.3V Step-Down Converter](https://www.aliexpress.com/item/32949929824.html?spm=a2g0o.order_list.order_list_main.204.32271802WzfUcm&gatewayAdapt=glo2isr) |            | 1        |
+|    | [12V to 5V Step-Down Converter](https://www.aliexpress.com/item/32949929824.html?spm=a2g0o.order_list.order_list_main.204.32271802WzfUcm&gatewayAdapt=glo2isr) |                | 1        |
+
 
 
 
