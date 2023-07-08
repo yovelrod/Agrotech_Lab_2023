@@ -18,8 +18,8 @@
 #define SENSOR_READING_INTERVAL (15 * 60 * 1000) // 15 minutes in milliseconds
 #define WIND_READING_INTERVAL (60 * 1000) // 1 minute in milliseconds
 
-#define NETWORK "rodoy"
-#define PASSWORD "0544543538"
+#define NETWORK ""
+#define PASSWORD ""
 
 // Pin Definitions
 #define SDA 33
