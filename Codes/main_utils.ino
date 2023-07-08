@@ -27,8 +27,8 @@ float pressure = 0;
 float wind_speed = 0;
 int wind_direction = 0;
 
-unsigned long myChannelNumber = 2214506;
-const char* myWriteAPIKey = "WRDZS4RBBRZBSI6E";
+unsigned long myChannelNumber = ;
+const char* myWriteAPIKey = "";
 
 /**
  * Reads sensor data from various sensors.
