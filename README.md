@@ -62,7 +62,7 @@ The purpose of my project was to build a meteorological station to measure clima
 
 4. Obtain the necessary API key and ID from ThingSpeak for authentication and data upload.
 
-5. Download the ESP32 Mini Weather Station project code from the repository.
+5. Download the ESP32 Mini Weather Station project code from the [repository](https://github.com/yovelrod/Agrotech_Lab_2023/tree/main/Codes).
 
 6. Open the project code in the Arduino IDE or your preferred development environment.
 
