@@ -76,7 +76,7 @@ The purpose of my project was to build a meteorological station to measure clima
 
 # Experinment:
 
-My ThingSpeak page] (https://thingspeak.com/channels/2214506)
+[My ThingSpeak page] (https://thingspeak.com/channels/2214506)
 
 <img width="1052" alt="Screenshot 2023-07-08 at 9 52 38" src="https://github.com/yovelrod/Agrotech_Lab_2023/assets/118877588/5b7e60a9-b8c6-4195-b875-a2cdbfff44af">
 
