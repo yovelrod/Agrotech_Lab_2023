@@ -73,3 +73,12 @@ The purpose of my project was to build a meteorological station to measure clima
 9. Monitor the serial output to ensure the weather data is being collected accurately.
 
 10. Check your ThingSpeak page to view and analyze the weather data uploaded by the weather station.
+
+# Experinment:
+
+
+<img width="1052" alt="Screenshot 2023-07-08 at 9 52 38" src="https://github.com/yovelrod/Agrotech_Lab_2023/assets/118877588/5b7e60a9-b8c6-4195-b875-a2cdbfff44af">
+
+# Tips:
+1. Make sure you buy good quality solar panel. 
+2. Make sure you make stickers on your cables and the system's parts.
