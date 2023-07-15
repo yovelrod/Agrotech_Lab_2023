@@ -6,6 +6,8 @@ The purpose of my project was to build a meteorological station to measure clima
 
 
 
+![IMG_5280](https://github.com/yovelrod/Agrotech_Lab_2023/assets/118877588/6a6514e4-ff15-431d-8014-5a0adaad3025)
+![IMG_5290](https://github.com/yovelrod/Agrotech_Lab_2023/assets/118877588/2a7bee65-be75-452f-a82d-96b7e412531d)
 
 
 
